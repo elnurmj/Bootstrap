@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: rgb(27, 27, 27);
+    height: 40px;
+}
+
+.container .a{
+    margin-left: 20px;
+    color: rgba(173, 173, 173, 0.856); 
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.head{
+    height: 50px;
+    text-align: center;
+}
+.head a{
+    color: white;
+}
+.title{
+    width: 95%;
+}
+.content{
+    width: 95%;
+}
+.sidebar{
+    height: 450px;
+    width: 100vw;
+    background-color: rgba(224, 221, 221, 0.459);
+} 
+
+.sidebar a{
+    color: rgb(83, 83, 224)
+}
+
+.title{
+    background-color: rgba(224, 221, 221, 0.459);
+    height: 220px;
+}
+
+.title h1{
+    font-size: 60px;
+}
+
+.head{
+    background-color: rgb(37, 37, 37);
+}
+
